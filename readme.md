@@ -1,4 +1,3 @@
-![Banner](https://chatgpt.com/s/m_685615e40e8c8191afecd8d48565a093)
 
 
 # Credit Card Fraud Detection
