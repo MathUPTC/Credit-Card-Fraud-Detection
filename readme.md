@@ -1,3 +1,6 @@
+![Banner](https://chatgpt.com/s/m_685615e40e8c8191afecd8d48565a093)
+
+
 # Credit Card Fraud Detection
 
 Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning para detectar fraudes en transacciones de tarjetas de crédito. El dataset utilizado contiene transacciones realizadas por titulares de tarjetas de crédito europeas en septiembre de 2013. Con un total de 284,807 transacciones, se identificaron 492 fraudes, lo que representa solo el 0.172% de todas las transacciones, lo que hace que el problema esté altamente desequilibrado.
